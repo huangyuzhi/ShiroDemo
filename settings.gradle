@@ -1,0 +1,2 @@
+rootProject.name = 'ShiroDemo'
+include 'core', 'web'
